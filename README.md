@@ -4,6 +4,8 @@
 
 Auto-generated client library for accessing the Google APIs.
 
+Examples for how to use these libraries can be found here: https://github.com/dart-gde/dart_api_client_examples
+
 ### Supported APIs
 
 #### ![Logo](http://www.google.com/images/icons/product/doubleclick-16.gif) Ad Exchange Buyer API - adexchangebuyer v1
