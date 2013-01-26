@@ -4,7 +4,7 @@ import "dart:async";
 import "dart:uri";
 import "dart:json" as JSON;
 
-part "src/common/client.dart";
-part "src/common/schemas.dart";
-part "src/common/resources.dart";
+part "src/compute_v1beta12/common/client.dart";
+part "src/compute_v1beta12/common/schemas.dart";
+part "src/compute_v1beta12/common/resources.dart";
 

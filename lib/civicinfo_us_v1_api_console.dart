@@ -10,6 +10,6 @@ import "dart:json" as JSON;
 import "package:http/http.dart" as http;
 import "package:google_oauth2_client/google_oauth2_console.dart" as oauth2;
 
-part "src/console/consoleclient.dart";
-part "src/console/civicinfo.dart";
+part "src/civicinfo_us_v1/console/consoleclient.dart";
+part "src/civicinfo_us_v1/console/civicinfo.dart";
 

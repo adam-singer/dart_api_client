@@ -10,6 +10,6 @@ import "dart:json" as JSON;
 import "package:js/js.dart" as js;
 import "package:google_oauth2_client/google_oauth2_browser.dart";
 
-part "src/browser/browserclient.dart";
-part "src/browser/youtube.dart";
+part "src/youtube_v3/browser/browserclient.dart";
+part "src/youtube_v3/browser/youtube.dart";
 
